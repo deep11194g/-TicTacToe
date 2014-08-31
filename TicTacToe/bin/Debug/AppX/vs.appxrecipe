@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>L420</Machine>
+    <WindowsUser>Admin</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>C320BAF2E8CECC2F7AA3541D7B597BE8FE3A29A649E22B2ACCC9D7B18D10DDA0</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>30300Soumyadeep.TicTacToe_1.0.0.0_neutral__rbrf2q5v4evb8</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>30300Soumyadeep.TicTacToe_rbrf2q5v4evb8!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>30300Soumyadeep.TicTacToe</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=81C5BC54-7B13-47E3-BADC-740E180BFB0D</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\SkyDrive\MSAppFest\TicTacToe\TicTacToe\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-10-05T11:18:06.525</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\SkyDrive\MSAppFest\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe">
+      <PackagePath>TicTacToe.exe</PackagePath>
+      <Modified>2014-03-24T17:53:35.682</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\SkyDrive\MSAppFest\TicTacToe\TicTacToe\bin\Debug\TicTacToe.pdb">
+      <PackagePath>TicTacToe.pdb</PackagePath>
+      <Modified>2014-03-24T17:53:35.281</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\SkyDrive\MSAppFest\TicTacToe\TicTacToe\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <Modified>2013-09-08T11:20:29.711</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\SkyDrive\MSAppFest\TicTacToe\TicTacToe\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <Modified>2012-03-15T15:12:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\SkyDrive\MSAppFest\TicTacToe\TicTacToe\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <Modified>2012-03-15T15:12:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\SkyDrive\MSAppFest\TicTacToe\TicTacToe\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-10-05T11:40:11.473</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\SkyDrive\MSAppFest\TicTacToe\TicTacToe\logo.png">
+      <PackagePath>logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-11T18:06:13.531</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\SkyDrive\MSAppFest\TicTacToe\TicTacToe\small_logo.png">
+      <PackagePath>small_logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-08-29T06:47:37.835</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\SkyDrive\MSAppFest\TicTacToe\TicTacToe\splash.png">
+      <PackagePath>splash.png</PackagePath>
+      <Modified>2013-08-30T05:58:20.753</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\SkyDrive\MSAppFest\TicTacToe\TicTacToe\ttt.png">
+      <PackagePath>ttt.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-29T14:13:43.524</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\SkyDrive\MSAppFest\TicTacToe\TicTacToe\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+      <Modified>2013-08-28T09:08:15.382</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\SkyDrive\MSAppFest\TicTacToe\TicTacToe\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2013-10-05T11:05:36.281</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\SkyDrive\MSAppFest\TicTacToe\TicTacToe\bin\Debug\AboutPage.xaml">
+      <PackagePath>AboutPage.xaml</PackagePath>
+      <Modified>2013-09-17T17:42:25.801</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\SkyDrive\MSAppFest\TicTacToe\TicTacToe\bin\Debug\HelpPage.xaml">
+      <PackagePath>HelpPage.xaml</PackagePath>
+      <Modified>2013-09-25T19:18:10.945</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\SkyDrive\MSAppFest\TicTacToe\TicTacToe\bin\Debug\StartPage.xaml">
+      <PackagePath>StartPage.xaml</PackagePath>
+      <Modified>2013-09-25T19:15:32.480</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\SkyDrive\MSAppFest\TicTacToe\TicTacToe\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-06-26T10:49:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\SkyDrive\MSAppFest\TicTacToe\TicTacToe\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2013-10-05T12:00:21.486</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\SkyDrive\MSAppFest\TicTacToe\TicTacToe\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-10-05T11:18:06.362</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

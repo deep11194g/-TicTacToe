@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns="http://schemas.microsoft.com/appx/2010/manifest">
+  <Identity Name="30300Soumyadeep.TicTacToe" Publisher="CN=81C5BC54-7B13-47E3-BADC-740E180BFB0D" Version="1.0.0.0" />
+  <Properties>
+    <DisplayName>++ Tic Tac Toe</DisplayName>
+    <PublisherDisplayName>Soumyadeep</PublisherDisplayName>
+    <Logo>Assets\StoreLogo.png</Logo>
+  </Properties>
+  <Prerequisites>
+    <OSMinVersion>6.2.1</OSMinVersion>
+    <OSMaxVersionTested>6.2.1</OSMaxVersionTested>
+  </Prerequisites>
+  <Resources>
+    <Resource Language="x-generate" />
+  </Resources>
+  <Applications>
+    <Application Id="App" Executable="$targetnametoken$.exe" EntryPoint="TicTacToe.App">
+      <VisualElements DisplayName="++ Tic Tac Toe" Logo="logo.png" SmallLogo="small_logo.png" Description="TicTacToe modified to get a next level experience. An algorithm never ever implemented before" ForegroundText="light" BackgroundColor="#464646">
+        <DefaultTile ShowName="allLogos" ShortName="++Tic Tac Toe" />
+        <SplashScreen Image="ttt.png" BackgroundColor="aliceBlue" />
+        <InitialRotationPreference>
+          <Rotation Preference="landscape" />
+        </InitialRotationPreference>
+      </VisualElements>
+    </Application>
+  </Applications>
+</Package>

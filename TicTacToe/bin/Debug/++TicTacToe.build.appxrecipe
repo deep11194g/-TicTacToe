@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>L420</Machine>
+    <WindowsUser>Admin</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\SkyDrive\MSAppFest\TicTacToe\TicTacToe\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\SkyDrive\MSAppFest\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe">
+      <PackagePath>TicTacToe.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\SkyDrive\MSAppFest\TicTacToe\TicTacToe\bin\Debug\TicTacToe.pdb">
+      <PackagePath>TicTacToe.pdb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\SkyDrive\MSAppFest\TicTacToe\TicTacToe\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\SkyDrive\MSAppFest\TicTacToe\TicTacToe\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\SkyDrive\MSAppFest\TicTacToe\TicTacToe\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\SkyDrive\MSAppFest\TicTacToe\TicTacToe\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\SkyDrive\MSAppFest\TicTacToe\TicTacToe\logo.png">
+      <PackagePath>logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\SkyDrive\MSAppFest\TicTacToe\TicTacToe\small_logo.png">
+      <PackagePath>small_logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\SkyDrive\MSAppFest\TicTacToe\TicTacToe\splash.png">
+      <PackagePath>splash.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\SkyDrive\MSAppFest\TicTacToe\TicTacToe\ttt.png">
+      <PackagePath>ttt.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\SkyDrive\MSAppFest\TicTacToe\TicTacToe\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\SkyDrive\MSAppFest\TicTacToe\TicTacToe\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\SkyDrive\MSAppFest\TicTacToe\TicTacToe\bin\Debug\AboutPage.xaml">
+      <PackagePath>AboutPage.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\SkyDrive\MSAppFest\TicTacToe\TicTacToe\bin\Debug\HelpPage.xaml">
+      <PackagePath>HelpPage.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\SkyDrive\MSAppFest\TicTacToe\TicTacToe\bin\Debug\StartPage.xaml">
+      <PackagePath>StartPage.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\SkyDrive\MSAppFest\TicTacToe\TicTacToe\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\SkyDrive\MSAppFest\TicTacToe\TicTacToe\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\SkyDrive\MSAppFest\TicTacToe\TicTacToe\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
